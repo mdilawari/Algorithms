@@ -1,0 +1,7 @@
+Algorithms:
+
+1. binary.rb: Convert a number to binary without using xor
+2. multiply.rb: Multiply two numbers that are represented as string
+3. my_merge_sort.rb: Merge sort
+4. permutation.rb: Generate all permutations for a string
+
